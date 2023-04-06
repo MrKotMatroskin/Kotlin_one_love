@@ -1,0 +1,38 @@
+Предложение: "The quick brown fox jumps over the lazy dog". Количество слов: 9
+Предложение: "She sells seashells by the seashore". Количество слов: 6
+Предложение: "Peter Piper picked a peck of pickled peppers". Количество слов: 8
+Предложение: "How much wood would a woodchuck chuck, if a woodchuck could chuck wood". Количество слов: 13
+Общее количество предложений: 4
+Общее количество слов: 36
+Частота появления каждого слова в тексте:
+the: 3
+quick: 1
+brown: 1
+fox: 1
+jumps: 1
+over: 1
+lazy: 1
+dog.: 1
+she: 1
+sells: 1
+seashells: 1
+by: 1
+seashore.: 1
+peter: 1
+piper: 1
+picked: 1
+a: 3
+peck: 1
+of: 1
+pickled: 1
+peppers.: 1
+how: 1
+much: 1
+wood: 1
+would: 1
+woodchuck: 2
+chuck,: 1
+if: 1
+could: 1
+chuck: 1
+wood?: 1
