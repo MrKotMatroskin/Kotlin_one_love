@@ -12,7 +12,6 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
-    implementation ("org.jetbrains.lets-plot:lets-plot-kotlin-jvm:4.3.0")
 }
 
 tasks.test {
