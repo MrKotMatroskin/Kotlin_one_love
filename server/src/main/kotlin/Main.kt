@@ -1,8 +1,4 @@
 import java.net.Socket
-import java.io.BufferedReader
-import java.io.BufferedWriter
-import java.io.InputStreamReader
-import java.io.OutputStreamWriter
 
 fun findSubstring(targetSubstring: String, inputChar: Char, currentIndex: Int): Int {
     val targetLength = targetSubstring.length
